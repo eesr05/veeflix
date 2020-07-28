@@ -1,7 +1,7 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Musicas",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
@@ -10,12 +10,12 @@
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "UNSTOPPABLE ( FRENCH VERSION ) SIA ( SARA'H COVER )",
+          "url": "https://www.youtube.com/watch?v=_QD3t_pMBuE"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "BEFORE YOU GO ( FRENCH VERSION ) LEWIS CAPALDI ( SARA'H COVER )",
+          "url": "https://www.youtube.com/watch?v=JgCD_jN29D4"
         },
         {
           "titulo": "Componentização com VanillaJS #AluraMais",
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Tutoriais",
       "cor": "#00C86F",
       "link_extra": {
         "text": "Cursos de Back End na Alura",
@@ -74,10 +74,10 @@
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Aleatorios",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
+        "text": "Videos para treinar",
         "url": "https://www.alura.com.br/formacao-data-science"
       },
       "videos": [
