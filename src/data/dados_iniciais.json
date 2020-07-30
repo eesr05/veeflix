@@ -1,16 +1,16 @@
 {
   "categorias": [
     {
-      "titulo": "Musicas",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Músicas",
+      "link": "https://www.youtube.com/playlist?list=PLJ3YDfqc1mI33A8_aMi5L5CWmhXsrW9g-",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Músicas em francês",
+        "url": "https://www.youtube.com/playlist?list=PLJ3YDfqc1mI33A8_aMi5L5CWmhXsrW9g-"
       },
       "videos": [
         {
-          "titulo": "UNSTOPPABLE ( FRENCH VERSION ) SIA ( SARA'H COVER )",
+          "titulo": "UNSTOPPABLE - FRENCH VERSION",
           "url": "https://www.youtube.com/watch?v=_QD3t_pMBuE"
         },
         {
@@ -18,28 +18,28 @@
           "url": "https://www.youtube.com/watch?v=JgCD_jN29D4"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "WE DON'T TALK ANYMORE - FRENCH VERSION",
+          "url": "https://www.youtube.com/watch?v=8Yba3dTL3tM&list=PLJ3YDfqc1mI33A8_aMi5L5CWmhXsrW9g-&index=7"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "IT'S YOU - FRENCH VERSION",
+          "url": "https://www.youtube.com/watch?v=z0jz2fDaZ-o&list=PLJ3YDfqc1mI33A8_aMi5L5CWmhXsrW9g-&index=8"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Jesse McCartney - De toi à moi",
+          "url": "https://www.youtube.com/watch?v=qfW2GzOOxcQ"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "UNFAITHFUL - FRENCH VERSION",
+          "url": "https://www.youtube.com/watch?v=dN2adfaZvdU&list=PLJ3YDfqc1mI33A8_aMi5L5CWmhXsrW9g-&index=9"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "WHAT ABOUT US - FRENCH VERSION",
+          "url": "https://www.youtube.com/watch?v=RxUmZke8_Lw&list=PLJ3YDfqc1mI33A8_aMi5L5CWmhXsrW9g-&index=11"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "WHEREVER YOU WILL GO - FRENCH VERSION",
+          "url": "https://www.youtube.com/watch?v=OxbrrW7fwJY"
         }        
       ]
     },
